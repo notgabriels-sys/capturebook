@@ -79,3 +79,14 @@ The Markdown sheet holds the declared session context and input rows. The CSV co
 The CSV and Markdown outputs use declared_on or declared_off. That wording is intentional: it reflects only what the plan says. It is not a prompt to engage phantom power, a compatibility check, a microphone specification, or proof of the hardware's actual state.
 
 Before any real session, confirm every relevant connection, source, microphone, power requirement, gain, clock, routing, consent, recording path, backup process, and client/artist approval in the actual environment. See [the scope boundary](docs/scope-boundary.md) and [the packet method](docs/packet-method.md) for the precise limits.
+
+---
+
+<!-- funnel-footer -->
+Part of a set of small, offline, local-first tools — [see all of them](https://github.com/notgabriels-sys).
+
+Free and open source: [theme-contrast](https://github.com/notgabriels-sys/theme-contrast) (WCAG contrast checking for colour themes) · [htmlshot](https://github.com/notgabriels-sys/htmlshot) (HTML → exact-size PNG/PDF) · [50 dark themes for Claude Code](https://github.com/notgabriels-sys/claude-code-50-dark-themes).
+
+Dark templates for documents, decks and app screens — [live demos](https://notgabriels-sys.github.io/dark-templates-demo/).
+
+Mixing and mastering, fixed price per track — [rates and booking](https://notgabriels-sys.github.io/dark-templates-demo/#music).
